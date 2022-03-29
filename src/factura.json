@@ -1,0 +1,63 @@
+{
+  "factura": [
+    {
+      "BusinessContact": {
+        "businessName": "",
+        "streetAddress": "",
+        "location": {
+          "city": "",
+          "state": "",
+          "zipCode": ""
+        }
+      },
+      "invoice items": {
+        "billTo": {
+          "clientName": "",
+          "streetAddress": "",
+          "location": {
+            "city": "",
+            "state": "",
+            "zipCode": ""
+          }
+        },
+        "shipTo:": {
+          "clientName": "",
+          "streetAddress": "",
+          "location": {
+            "city": "",
+            "state": "",
+            "zipCode": ""
+          }
+        },
+        "invoiceDetails": {
+          "#invoice": "",
+          "invouceDate": "",
+          "Terms": "",
+          "Due": ""
+        }
+      },
+      "descriptionGoods_Services": [
+        {
+          "product/service": "",
+          "service": "",
+          "qty/hrs": "0",
+          "rate": "0",
+          "amount": "0"
+        },
+        {
+          "product/service": "",
+          "service": "",
+          "qty/hrs": "0",
+          "rate": "0",
+          "amount": "0"
+        }
+      ],
+      "costs": {
+        "subTotal": "",
+        "salesTax": "",
+        "shipping": "",
+        "total": ""
+      }
+    }
+  ]
+}
